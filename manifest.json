@@ -1,0 +1,741 @@
+{
+  "game_url": "https://google.com/logos/2021/halloween21/v81123/halloween21.html",
+  "backup_directory": "C:\\HalloweenBackup",
+  "resources": {
+    "https://www.google.com/logos/2021/halloween21/v81123/halloween21.html": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/halloween21.html",
+      "type": "document",
+      "status": 200,
+      "content_type": "text/html",
+      "size": 104912,
+      "sha256": "bb49cd2ab94f90a51bb4765ad27b68be67375811b775fefb4b3280bed1acf2b9",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\halloween21.html"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/cta.png": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/cta.png",
+      "type": "image",
+      "status": 200,
+      "content_type": "image/png",
+      "size": 44644,
+      "sha256": "fa078d5c8103b4ef97bbcc9da0854829548a28d78c2856e65cac884b64e15f3d",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\cta.png"
+    },
+    "https://www.gstatic.com/external_hosted/pixi_v5/pixi.min.js": {
+      "url": "https://www.gstatic.com/external_hosted/pixi_v5/pixi.min.js",
+      "type": "script",
+      "status": 200,
+      "content_type": "text/javascript",
+      "size": 374024,
+      "sha256": "b1a859bb30f0b0e84f072c26cd4507be12cfe25c92bc55e5188396810f5393bd",
+      "local_file": "www.gstatic.com\\external_hosted\\pixi_v5\\pixi.min.js"
+    },
+    "https://www.google.com/logos/doodles/2021/halloween21/v81123/halloween21.js": {
+      "url": "https://www.google.com/logos/doodles/2021/halloween21/v81123/halloween21.js",
+      "type": "script",
+      "status": 200,
+      "content_type": "text/javascript",
+      "size": 324726,
+      "sha256": "64a616517fbf2e141a0264d3562f1554110659dcb0ebff1ff2d2e687bdd7615d",
+      "local_file": "www.google.com\\logos\\doodles\\2021\\halloween21\\v81123\\halloween21.js"
+    },
+    "https://www.google.com/async/ddllog?async=_fmt%3Ajspb%2Cdoodle%3A207425579%2Cslot%3A0%2Ctype%3A3%2Ccta%3A1": {
+      "url": "https://www.google.com/async/ddllog?async=_fmt%3Ajspb%2Cdoodle%3A207425579%2Cslot%3A0%2Ctype%3A3%2Ccta%3A1",
+      "type": "xhr",
+      "status": 200,
+      "content_type": "application/json; charset=UTF-8",
+      "size": 123,
+      "sha256": "c0bcc8740ca6a9e16c9a1ccd3711db0252cfa87816587a3532c84002cf0a1fab",
+      "local_file": "www.google.com\\async\\ddllog__q_24704fcc7017"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/initial-sprite.png": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/initial-sprite.png",
+      "type": "image",
+      "status": 200,
+      "content_type": "image/png",
+      "size": 82122,
+      "sha256": "be8c976a239e812a06d5ad8c588e1f7625d37f92c4ca3af47bc0920ca13476f7",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\initial-sprite.png"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/messages.en.nocache.json": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/messages.en.nocache.json",
+      "type": "xhr",
+      "status": 200,
+      "content_type": "application/json",
+      "size": 5183,
+      "sha256": "88bf83c63fcdba99466fa90eb832346d89ed5ea09987a1114d2d32bb08144455",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\messages.en.nocache.json"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:1,dt:0,e:1,t:-1,l:1&ei=&zx=1789267364202": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:1,dt:0,e:1,t:-1,l:1&ei=&zx=1789267364202",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_3a278de64d53"
+    },
+    "https://www.gstatic.com/external_hosted/pixi_v5/pixi-legacy.min.js": {
+      "url": "https://www.gstatic.com/external_hosted/pixi_v5/pixi-legacy.min.js",
+      "type": "script",
+      "status": 200,
+      "content_type": "text/javascript",
+      "size": 399400,
+      "sha256": "529fd362bab2536783379e338aeb1f28391ac6dfd7828d38987c8f470219b775",
+      "local_file": "www.gstatic.com\\external_hosted\\pixi_v5\\pixi-legacy.min.js"
+    },
+    "https://fonts.gstatic.com/s/poorstory/v24/jizfREFUsnUct9P6cDfd0O6tLQ.woff2": {
+      "url": "https://fonts.gstatic.com/s/poorstory/v24/jizfREFUsnUct9P6cDfd0O6tLQ.woff2",
+      "type": "font",
+      "status": 200,
+      "content_type": "font/woff2",
+      "size": 11388,
+      "sha256": "627d74f83e419aefc7fc3e9874cc6f3aacdce27ac2c5271b3dcbe810c77275de",
+      "local_file": "fonts.gstatic.com\\s\\poorstory\\v24\\jizfREFUsnUct9P6cDfd0O6tLQ.woff2"
+    },
+    "https://fonts.gstatic.com/s/poorstory/v24/jizfREFUsnUct9P6cDfd4OzPOj8WkF1B7j-n17_EgOfBa4TcZw.119.woff2": {
+      "url": "https://fonts.gstatic.com/s/poorstory/v24/jizfREFUsnUct9P6cDfd4OzPOj8WkF1B7j-n17_EgOfBa4TcZw.119.woff2",
+      "type": "font",
+      "status": 200,
+      "content_type": "font/woff2",
+      "size": 9008,
+      "sha256": "b24ee61b183bf346a335502795f90c65fd588e08a6c24a476ac0f8f8f2985b15",
+      "local_file": "fonts.gstatic.com\\s\\poorstory\\v24\\jizfREFUsnUct9P6cDfd4OzPOj8WkF1B7j-n17_EgOfBa4TcZw.119.woff2"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/Halloween21-CTAGreenButton.png": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/Halloween21-CTAGreenButton.png",
+      "type": "image",
+      "status": 200,
+      "content_type": "image/png",
+      "size": 4368,
+      "sha256": "7bf61b1553a2d1b37fdfea8829df4d9ae690137fffe19c2b3aa41e68a5d241eb",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\Halloween21-CTAGreenButton.png"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/Halloween21-CTAPurpleButton.png": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/Halloween21-CTAPurpleButton.png",
+      "type": "image",
+      "status": 200,
+      "content_type": "image/png",
+      "size": 3758,
+      "sha256": "0cd3406d3bb65992336c62a708149bdfd47c7694954189595933e13ba0115753",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\Halloween21-CTAPurpleButton.png"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/tutorial-map.json": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/tutorial-map.json",
+      "type": "xhr",
+      "status": 200,
+      "content_type": "application/json",
+      "size": 66209,
+      "sha256": "2d26a41b67f2a99112077c689390afd351af5c67bf7f31519a3bc32e711fe8c8",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\tutorial-map.json"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/sfx.mp3": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/sfx.mp3",
+      "type": "xhr",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "size": 204084,
+      "sha256": "1949eecfec18150027c8c808857be996f5da50177f61cf7d03a8eb2db0127d5d",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\sfx.mp3"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/tutorial.mp3": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/tutorial.mp3",
+      "type": "xhr",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "size": 230760,
+      "sha256": "0b6b2d39228374b703f27bac608899be1337df785fc2bd17ba2d3fd4f8b24ad2",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\tutorial.mp3"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:1,dt:3022,e:101,t:-1,l:1&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267367224": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:1,dt:3022,e:101,t:-1,l:1&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267367224",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_47b4038bb039"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:1,dt:6,e:0,t:0,l:1&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267367230": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:1,dt:6,e:0,t:0,l:1&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267367230",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_99e23dc964b0"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:1,dt:0,e:10,t:0,l:1&ved=0ahUKEwj6ivutxOqWAxXQhJUCHeSbCNIQNwgB&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267367230": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:1,dt:0,e:10,t:0,l:1&ved=0ahUKEwj6ivutxOqWAxXQhJUCHeSbCNIQNwgB&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267367230",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_245ff940a2b5"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/tutorial-sprite.png": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/tutorial-sprite.png",
+      "type": "image",
+      "status": 200,
+      "content_type": "image/png",
+      "size": 314627,
+      "sha256": "0a50fc34e1ddfe2a0f36a39a9c3ae997bf81e4a4b061bb747e9154f52075b5d8",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\tutorial-sprite.png"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/hurry_up.mp3": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/hurry_up.mp3",
+      "type": "xhr",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "size": 156240,
+      "sha256": "7c1dd358ef7f0e945605f4bcc58f876aebb78ddbcbad8002a34e773811de2921",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\hurry_up.mp3"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/postgame.mp3": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/postgame.mp3",
+      "type": "xhr",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "size": 244584,
+      "sha256": "e094c12efdf25026cfb3dbf2b47d60d19e7f297d542eb242d38ef16d04299479",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\postgame.mp3"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:2,dt:2223,e:1,t:2223,l:1,d2:1&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267369453": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:2,dt:2223,e:1,t:2223,l:1,d2:1&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267369453",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_c6730c65d128"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/tutorial-rotate-tileset_001.png": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/tutorial-rotate-tileset_001.png",
+      "type": "image",
+      "status": 200,
+      "content_type": "image/png",
+      "size": 325968,
+      "sha256": "ff53cdcead975b238bcff4d6b8dec15b27659dadf1b85af0675f3969cd45d21a",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\tutorial-rotate-tileset_001.png"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/lobby.mp3": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/lobby.mp3",
+      "type": "xhr",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "size": 96156,
+      "sha256": "d7eade7c1b7dcb4c639744ea0ad41f123ba35437a1de46cd738ce3b93316aac8",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\lobby.mp3"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/main-sprite.png": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/main-sprite.png",
+      "type": "image",
+      "status": 200,
+      "content_type": "image/png",
+      "size": 70636,
+      "sha256": "0b5062e7dacc4764fd25ca7f0dcd1178d0671d24c89e356c5d5c9f7eb3aee2be",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\main-sprite.png"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/hats-sprite.png": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/hats-sprite.png",
+      "type": "image",
+      "status": 200,
+      "content_type": "image/png",
+      "size": 330330,
+      "sha256": "5e18ebd1a4da42ed96b80b548817224227fe98d0367e5702c04d491f479cffe5",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\hats-sprite.png"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/achievements-sprite.png": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/achievements-sprite.png",
+      "type": "image",
+      "status": 200,
+      "content_type": "image/png",
+      "size": 371117,
+      "sha256": "7d1aab8f636105fe2e7c91303329a76ce8542c9a3fd21fc0aedf96028eacd609",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\achievements-sprite.png"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/desktop-sprite.png": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/desktop-sprite.png",
+      "type": "image",
+      "status": 200,
+      "content_type": "image/png",
+      "size": 540261,
+      "sha256": "c9dfd84549aa6b9f9feaea9be3d0dd7ac60a62e193721f6f83a7703f851364ea",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\desktop-sprite.png"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/alpha-sprite.png": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/alpha-sprite.png",
+      "type": "image",
+      "status": 200,
+      "content_type": "image/png",
+      "size": 849317,
+      "sha256": "3451f905ff4f9552acc7aa50aae8f80476c8f64d1af0a873f75ab5d6c23f9ff5",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\alpha-sprite.png"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/bravo-sprite.png": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/bravo-sprite.png",
+      "type": "image",
+      "status": 200,
+      "content_type": "image/png",
+      "size": 857365,
+      "sha256": "37df51e83c1db87ea260b0064c63361fd7c6c02c8a9ebdbd33d45ed3f8d8cd33",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\bravo-sprite.png"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:2,dt:3889,e:107,t:6112,l:1,d2:1&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267373342": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:2,dt:3889,e:107,t:6112,l:1,d2:1&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267373342",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_e61ef6e3ef2b"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:4,dt:42,e:1,t:6154,l:1,d2:1&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267373384": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:4,dt:42,e:1,t:6154,l:1,d2:1&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267373384",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_7cabbaedefae"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:10,dt:26039,e:1,t:32193,l:1,d2:1&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267399423": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:10,dt:26039,e:1,t:32193,l:1,d2:1&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267399423",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_22478c32cca8"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:12,dt:0,e:0,t:0,l:1,d2:1&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267400339": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:12,dt:0,e:0,t:0,l:1,d2:1&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267400339",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_dc8629efed07"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:12,dt:916,e:1,t:33109,l:1,d2:1&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267400339": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:12,dt:916,e:1,t:33109,l:1,d2:1&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267400339",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_fbe274eb9941"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:11,dt:0,e:1,t:0,l:1,d2:1&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267400339": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:11,dt:0,e:1,t:0,l:1,d2:1&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267400339",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_e89c3c5a66b4"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/map05.json": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/map05.json",
+      "type": "xhr",
+      "status": 200,
+      "content_type": "application/json",
+      "size": 125441,
+      "sha256": "38f77250469f1c6e649e08e907172e8d91c9c68385a379d32f64f5342ffe35a2",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\map05.json"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:13,dt:82,e:1,t:82,l:1,d2:1,d4:NaN&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267400421": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:13,dt:82,e:1,t:82,l:1,d2:1,d4:NaN&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267400421",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_e21f7c43d0f5"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/rotate-tileset_corn3.png": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/rotate-tileset_corn3.png",
+      "type": "image",
+      "status": 200,
+      "content_type": "image/png",
+      "size": 306285,
+      "sha256": "4be9f0d07fd5866ea70b1a898085572604f7428b65b8184c243f8ec68b7fd25b",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\rotate-tileset_corn3.png"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:14,dt:5219,e:1,t:5301,l:1,d2:1,d4:NaN&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267405640": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:14,dt:5219,e:1,t:5301,l:1,d2:1,d4:NaN&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267405640",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_792d96692555"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:15,dt:5184,e:1,t:10485,l:1,d2:1,d4:NaN&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267410824": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:15,dt:5184,e:1,t:10485,l:1,d2:1,d4:NaN&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267410824",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_c9fa8af56a6e"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:16,dt:0,e:2,t:130228,l:1,d2:1,d4:NaN&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267530567": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:16,dt:0,e:2,t:130228,l:1,d2:1,d4:NaN&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267530567",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_9bc51e761021"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:16,dt:119743,e:1,t:130228,l:1,d2:1,d4:NaN&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267530567": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:16,dt:119743,e:1,t:130228,l:1,d2:1,d4:NaN&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267530567",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_0c0f18eb28d8"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:16,dt:4,e:1,t:130232,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267530571": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:16,dt:4,e:1,t:130232,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267530571",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_948746509804"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:16,dt:0,e:2,t:130232,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267530571": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:16,dt:0,e:2,t:130232,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267530571",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_db3cbf40ede3"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:17,dt:2999,e:1,t:133231,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267533570": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:17,dt:2999,e:1,t:133231,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267533570",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_cea25575b8ac"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:17,dt:4670,e:4,t:137901,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267538240": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:17,dt:4670,e:4,t:137901,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267538240",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_a11f890cb9c5"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:4,dt:15,e:1,t:137916,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267538255": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:4,dt:15,e:1,t:137916,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267538255",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_3c93b1b8eadf"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:10,dt:26164,e:1,t:164080,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267564419": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:10,dt:26164,e:1,t:164080,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267564419",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_300e95578f0e"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:12,dt:720,e:1,t:164800,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267565140": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:12,dt:720,e:1,t:164800,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267565140",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_3ed5faa412e9"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:12,dt:1,e:0,t:0,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267565140": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:12,dt:1,e:0,t:0,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267565140",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_a0ae2fb3ffb7"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/map06.json": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/map06.json",
+      "type": "xhr",
+      "status": 200,
+      "content_type": "application/json",
+      "size": 116932,
+      "sha256": "296b497cce22ce1a3444fc0e7d522d2ccb26ac827e05ca23866b9dcc1954642b",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\map06.json"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:11,dt:0,e:1,t:0,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267565140": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:11,dt:0,e:1,t:0,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267565140",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_68044a5e07a7"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:13,dt:108,e:1,t:108,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267565248": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:13,dt:108,e:1,t:108,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267565248",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_ac576cbeeb39"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/tutorial-rotate-tileset_museum.png": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/tutorial-rotate-tileset_museum.png",
+      "type": "image",
+      "status": 200,
+      "content_type": "image/png",
+      "size": 446765,
+      "sha256": "d018ed1d760ab552934c76d22c1451a8f8a37b6346bfeaa21b44c453fd437c95",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\tutorial-rotate-tileset_museum.png"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:14,dt:9440,e:1,t:9548,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267574688": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:14,dt:9440,e:1,t:9548,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267574688",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_348abdc822c8"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:15,dt:5085,e:1,t:14633,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267579773": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:15,dt:5085,e:1,t:14633,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267579773",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_7e9f8e6fd8fa"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:16,dt:119892,e:1,t:134525,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267699665": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:16,dt:119892,e:1,t:134525,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267699665",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_1ac2ce03c1dd"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:16,dt:0,e:2,t:134525,l:1,d2:1,d4:NaN,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267699665": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:16,dt:0,e:2,t:134525,l:1,d2:1,d4:NaN,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267699665",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_4e66e62456d4"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:16,dt:0,e:2,t:134525,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267699665": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:16,dt:0,e:2,t:134525,l:1,d2:1,d4:NaN,s:138&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267699665",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_dba106b3ff78"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:16,dt:0,e:1,t:134525,l:1,d2:1,d4:NaN,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267699665": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:16,dt:0,e:1,t:134525,l:1,d2:1,d4:NaN,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267699665",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_991acc99be9a"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:17,dt:2992,e:1,t:137517,l:1,d2:1,d4:NaN,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267702657": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:17,dt:2992,e:1,t:137517,l:1,d2:1,d4:NaN,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267702657",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_da53be48744c"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:17,dt:4474,e:113,t:141991,l:1,d2:1,d4:NaN,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267707131": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:17,dt:4474,e:113,t:141991,l:1,d2:1,d4:NaN,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267707131",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_d2946f034e5a"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:6,dt:13,e:1,t:142004,l:1,d2:1,d4:NaN,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267707144": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:1,d:207425579,c:6,dt:13,e:1,t:142004,l:1,d2:1,d4:NaN,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267707144",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_8157b91cdcfb"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:6,dt:3551,e:16,t:145555,l:1,d2:1,d4:NaN,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267710695": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:6,dt:3551,e:16,t:145555,l:1,d2:1,d4:NaN,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267710695",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_a421913a435f"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:6,dt:1945,e:108,t:147500,l:1,d2:1,d4:NaN,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267712640": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:6,dt:1945,e:108,t:147500,l:1,d2:1,d4:NaN,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267712640",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_dfd5afc070ae"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:10,dt:212,e:1,t:147712,l:1,d2:1,d4:NaN,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267712852": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:10,dt:212,e:1,t:147712,l:1,d2:1,d4:NaN,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267712852",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_bbeb1547eadd"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:12,dt:77,e:1,t:147789,l:1,d2:1,d4:NaN,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267712929": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:12,dt:77,e:1,t:147789,l:1,d2:1,d4:NaN,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267712929",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_8cb2e3636c91"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/map02.json": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/map02.json",
+      "type": "xhr",
+      "status": 200,
+      "content_type": "application/json",
+      "size": 167495,
+      "sha256": "2a34329e731e5f7ad2fcd2e023ea81693766466637fd4654f854ef72a034a73a",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\map02.json"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:12,dt:0,e:0,t:0,l:1,d2:1,d4:NaN,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267712930": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:12,dt:0,e:0,t:0,l:1,d2:1,d4:NaN,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267712930",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_46c0be5449dc"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:11,dt:1,e:1,t:1,l:1,d2:1,d4:NaN,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267712930": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:11,dt:1,e:1,t:1,l:1,d2:1,d4:NaN,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267712930",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_3951cda86415"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:13,dt:77,e:1,t:78,l:1,d2:1,d4:2,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267713007": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:13,dt:77,e:1,t:78,l:1,d2:1,d4:2,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267713007",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_eb0aa36e6198"
+    },
+    "https://www.google.com/logos/2021/halloween21/v81123/rotate-tileset_002.png": {
+      "url": "https://www.google.com/logos/2021/halloween21/v81123/rotate-tileset_002.png",
+      "type": "image",
+      "status": 200,
+      "content_type": "image/png",
+      "size": 352906,
+      "sha256": "f0fc8a2376679eafdc532a42f0c434d88cbc0ed46fc6eaaa1a0564c597ba6a4a",
+      "local_file": "www.google.com\\logos\\2021\\halloween21\\v81123\\rotate-tileset_002.png"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:14,dt:5277,e:1,t:5355,l:1,d2:1,d4:2,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267718284": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:14,dt:5277,e:1,t:5355,l:1,d2:1,d4:2,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267718284",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_915a8f05421d"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:15,dt:5042,e:1,t:10397,l:1,d2:1,d4:2,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267723326": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:15,dt:5042,e:1,t:10397,l:1,d2:1,d4:2,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267723326",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_87474847c971"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:16,dt:119941,e:1,t:130338,l:1,d2:1,d4:2,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267843267": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:16,dt:119941,e:1,t:130338,l:1,d2:1,d4:2,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267843267",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_35e48994603a"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:16,dt:0,e:2,t:130338,l:1,d2:1,d4:2,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267843267": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:16,dt:0,e:2,t:130338,l:1,d2:1,d4:2,s:163&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267843267",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_a020d7fa847f"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:16,dt:0,e:2,t:130339,l:1,d2:1,d4:2,s:275&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267843268": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:16,dt:0,e:2,t:130339,l:1,d2:1,d4:2,s:275&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267843268",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_7f7d735332f7"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:16,dt:1,e:1,t:130339,l:1,d2:1,d4:2,s:275&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267843268": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:16,dt:1,e:1,t:130339,l:1,d2:1,d4:2,s:275&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267843268",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_551af68eb67b"
+    },
+    "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:17,dt:2996,e:1,t:133335,l:1,d2:1,d4:2,s:275&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267846265": {
+      "url": "https://www.google.com/gen_204?atyp=i&ct=doodle&cad=d3:3,d:207425579,c:17,dt:2996,e:1,t:133335,l:1,d2:1,d4:2,s:275&ei=pQ2marqkL9CJ1sQP5LeikA0&zx=1789267846265",
+      "type": "image",
+      "status": 204,
+      "content_type": "text/html; charset=UTF-8",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "local_file": "www.google.com\\gen_204__q_1157aabe686c"
+    }
+  },
+  "errors": [
+    {
+      "url": "https://google.com/logos/2021/halloween21/v81123/halloween21.html",
+      "error": "No se pudo leer: Response.body: Response body is unavailable for redirect responses"
+    }
+  ]
+}
